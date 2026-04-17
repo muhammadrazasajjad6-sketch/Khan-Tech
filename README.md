@@ -7,10 +7,10 @@ This project is designed to look and feel like a **high-end digital agency websi
 ---
 
 ## 🌐 Live Preview
-> Add your live website link here after deployment
+> https://khan-tech-olive.vercel.app/
 
 ```bash
-https://your-live-link.netlify.app
+https://khan-tech-olive.vercel.app/
 ```
 
 ---
